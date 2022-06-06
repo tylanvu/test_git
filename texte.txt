@@ -2,3 +2,5 @@ bonjour
 cmd test
 texte modifie sync
 dif version 2
+
+version 3 git
