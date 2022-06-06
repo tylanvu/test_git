@@ -1,3 +1,3 @@
 bonjour 
 cmd test
-texte modifie
+texte modifie sync
